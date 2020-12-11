@@ -67,7 +67,7 @@ Testing is one of the most important things during the software development.
 
 One of the beauty of the Dart Ecosystem, is the way developers can easily test their code.
 
-Flutter has 3 types of tests.
+Flutter has 3 types of tests:
 
 - Unit tests are the one used for testing a method, or class.
 - Widget tests are the tests for controlling single widget.
